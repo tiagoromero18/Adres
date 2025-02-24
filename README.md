@@ -13,4 +13,4 @@ Subir el archivo requerido
 
 ##### Punto 2 #####
 Correr el codigo de Python normal
-(Si prefiere cargar el archivo .db en un programa que permita la visualización
+(Si prefiere cargar el archivo .db en un programa que permita la visualización)
