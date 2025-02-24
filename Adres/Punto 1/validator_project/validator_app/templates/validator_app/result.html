@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados</title>
+    <link rel="stylesheet" href="{% static 'css/result.css' %}">
+</head>
+<body>
+    <h1>Resultados</h1>
+
+    <div class="list-container">
+        <ol class="result-list">
+            {% for result in results %}
+                <li>{{ result }}</li>
+            {% endfor %}
+        </ol>
+    </div>
+
+    <a class="back-button" href="{% url 'upload_file' %}">⬅ Volver</a>
+</body>
+</html>
