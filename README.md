@@ -2,11 +2,18 @@
 Prueba tecnica para contratación en Adres
 
 General para clonar el repositorio:
+
 git clone (la url del repositorio)
+
 <img width="388" alt="Screenshot 2025-02-23 at 8 02 30 PM" src="https://github.com/user-attachments/assets/88cf60e8-0444-4748-aa8b-d74ac9ff89d5" />
 
-##### Punto 1 #####
+Dirigase desde la terminal a cada uno de los Puntos respectivos
+
+### Punto 1 
+
 - Instalar Django (pip install django)
+
+- ```bash pip install -r Punto\ 1/requirements.txt```
 
 - Dirigirse al directorio validator_project
 
