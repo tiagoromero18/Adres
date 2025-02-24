@@ -17,7 +17,7 @@ Dirigase desde la terminal a cada uno de los Puntos respectivos
 
 - Dirigirse al directorio validator_project
 
-- Correr el siguiente comando -> python3 manage.py runserver
+- Correr el siguiente comando -> ```python3 manage.py runserver```
 
 - Subir el archivo requerido
 
