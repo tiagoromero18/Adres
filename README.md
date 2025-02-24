@@ -13,7 +13,7 @@ Dirigase desde la terminal a cada uno de los Puntos respectivos
 
 - Instalar Django ```pip install django```
 
-- ```pip install -r requirements.txt```
+- Ahora instale los paquetes requeridos ```pip install -r requirements.txt```
 
 - Dirigirse al directorio validator_project
 
@@ -23,7 +23,7 @@ Dirigase desde la terminal a cada uno de los Puntos respectivos
 
 ##### Punto 2 #####
 
-- ```pip install -r requirements.txt```
+- Instale los paquetes requeridos ```pip install -r requirements.txt```
 
 - Correr el codigo de Python normal
 
