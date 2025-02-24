@@ -8,7 +8,7 @@ git clone (la url del repositorio)
 ##### Punto 1 #####
 - Instalar Django (pip install django)
 
-- Dirigirse al archivo validator_project
+- Dirigirse al directorio validator_project
 
 - Correr el siguiente comando -> python3 manage.py runserver
 
